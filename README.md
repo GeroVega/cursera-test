@@ -1,6 +1,6 @@
 # cursera-test
 reopositorio de prueba cursera
-## nuevamente estamos en cursera obsevando como va todo##
+## nuevamente estamos en cursera obsevando como va todo
 >orden
 >-simpleza
 >-epitafios
@@ -8,3 +8,4 @@ reopositorio de prueba cursera
 >-yoga
 "trambolico"
 ´puestos´
+<commit/>
